@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Bayesian Methods**
 
-- 💬 Ask me about **Supervised and Unsupervised Algo**
+- 💬 Ask me about **Supervised and Unsupervised Learning**
 
 - 📫 How to reach me **soumya01raj@gmail.com**
 
