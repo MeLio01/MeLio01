@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Bayesian Methods for ML and Backend Development using Flask**
 
-- 👯 I’m looking to collaborate on **Neural Networks**
+- 👯 I’m looking to collaborate on **Neural Nets**
 
 - 💬 Ask me about **Supervised and Unsupervised Learning**
 
