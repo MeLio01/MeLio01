@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Soumya Raj</h1>
+<h1 align="center">Hi, I'm Soumya</h1>
 <h3 align="center">An ML/AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melio01&label=Profile%20views&color=0e98b4&style=flat" alt="melio01" /> </p>
